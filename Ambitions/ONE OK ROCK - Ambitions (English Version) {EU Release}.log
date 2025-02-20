@@ -1,0 +1,292 @@
+X Lossless Decoder version 20161007 (149.3)
+
+XLD extraction logfile from 2017-01-13 20:07:59 +0800
+
+ONE OK ROCK / Ambitions
+
+Used drive : HL-DT-ST DVDRAM GP65NS60 (revision PF00)
+Media type : Pressed CD
+
+Ripper mode             : XLD Secure Ripper
+Disable audio cache     : OK for the drive with a cache less than 1375KiB
+Make use of C2 pointers : NO
+Read offset correction  : 6
+Max retry count         : 20
+Gap status              : Analyzed, Appended (except HTOA)
+
+TOC of the extracted CD
+     Track |   Start  |  Length  | Start sector | End sector 
+    ---------------------------------------------------------
+        1  | 00:00:00 | 01:23:61 |         0    |     6285   
+        2  | 01:23:61 | 04:24:06 |      6286    |    26091   
+        3  | 05:47:67 | 03:38:04 |     26092    |    42445   
+        4  | 09:25:71 | 04:15:30 |     42446    |    61600   
+        5  | 13:41:26 | 03:36:64 |     61601    |    77864   
+        6  | 17:18:15 | 03:16:30 |     77865    |    92594   
+        7  | 20:34:45 | 03:22:13 |     92595    |   107757   
+        8  | 23:56:58 | 02:48:45 |    107758    |   120402   
+        9  | 26:45:28 | 03:58:62 |    120403    |   138314   
+       10  | 30:44:15 | 03:39:03 |    138315    |   154742   
+       11  | 34:23:18 | 03:36:70 |    154743    |   171012   
+       12  | 38:00:13 | 04:05:71 |    171013    |   189458   
+       13  | 42:06:09 | 03:14:19 |    189459    |   204027   
+       14  | 45:20:28 | 04:03:25 |    204028    |   222277   
+
+AccurateRip Summary
+    Disc not found in AccurateRip DB.
+
+All Tracks
+    Album gain               : -10.56 dB
+    Peak                     : 1.000000
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 01
+    Filename : /Users/alex/Documents/XLD/ONE OK ROCK - Ambitions (2017) [FLAC]/01 Ambitions –Introduction–.flac
+    Pre-gap length : 00:02:00
+
+    Track gain               : -5.82 dB
+    Peak                     : 0.958527
+    CRC32 hash (test run)    : 85135B58
+    CRC32 hash               : 85135B58
+    CRC32 hash (skip zero)   : 97E1A7C7
+    AccurateRip v1 signature : DBDE1F0E
+    AccurateRip v2 signature : 7C4C0414
+        ->Track not present in AccurateRip database.
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 02
+    Filename : /Users/alex/Documents/XLD/ONE OK ROCK - Ambitions (2017) [FLAC]/02 Bombs away.flac
+
+    Track gain               : -11.00 dB
+    Peak                     : 0.995270
+    CRC32 hash (test run)    : DCFDFBDE
+    CRC32 hash               : DCFDFBDE
+    CRC32 hash (skip zero)   : 53659DE1
+    AccurateRip v1 signature : 019F0736
+    AccurateRip v2 signature : 5B208658
+        ->Track not present in AccurateRip database.
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 03
+    Filename : /Users/alex/Documents/XLD/ONE OK ROCK - Ambitions (2017) [FLAC]/03 Taking Off.flac
+
+    Track gain               : -10.06 dB
+    Peak                     : 1.000000
+    CRC32 hash (test run)    : 9A3D39CB
+    CRC32 hash               : 9A3D39CB
+    CRC32 hash (skip zero)   : 8EA59C6C
+    AccurateRip v1 signature : 903D1779
+    AccurateRip v2 signature : 4A10BC99
+        ->Track not present in AccurateRip database.
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 04
+    Filename : /Users/alex/Documents/XLD/ONE OK ROCK - Ambitions (2017) [FLAC]/04 We are.flac
+
+    Track gain               : -11.12 dB
+    Peak                     : 0.978180
+    CRC32 hash (test run)    : 197DC4DB
+    CRC32 hash               : 197DC4DB
+    CRC32 hash (skip zero)   : 0E1BD98A
+    AccurateRip v1 signature : BA6BFFFD
+    AccurateRip v2 signature : E9AE542D
+        ->Track not present in AccurateRip database.
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 05
+    Filename : /Users/alex/Documents/XLD/ONE OK ROCK - Ambitions (2017) [FLAC]/05 20／20.flac
+
+    Track gain               : -11.07 dB
+    Peak                     : 0.996979
+    CRC32 hash (test run)    : E22E53DD
+    CRC32 hash               : E22E53DD
+    CRC32 hash (skip zero)   : D6166F65
+    AccurateRip v1 signature : D0820ED0
+    AccurateRip v2 signature : 3E47EADC
+        ->Track not present in AccurateRip database.
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 06
+    Filename : /Users/alex/Documents/XLD/ONE OK ROCK - Ambitions (2017) [FLAC]/06 Always coming back.flac
+
+    Track gain               : -7.75 dB
+    Peak                     : 0.965363
+    CRC32 hash (test run)    : FF4882F2
+    CRC32 hash               : FF4882F2
+    CRC32 hash (skip zero)   : 2F3E2BDD
+    AccurateRip v1 signature : 3CC266FA
+    AccurateRip v2 signature : B7E9F62F
+        ->Track not present in AccurateRip database.
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 07
+    Filename : /Users/alex/Documents/XLD/ONE OK ROCK - Ambitions (2017) [FLAC]/07 Bedroom Warfare.flac
+
+    Track gain               : -10.09 dB
+    Peak                     : 0.957428
+    CRC32 hash (test run)    : 7CB69E64
+    CRC32 hash               : 7CB69E64
+    CRC32 hash (skip zero)   : 07139BE6
+    AccurateRip v1 signature : EB2259E9
+    AccurateRip v2 signature : 79474DBE
+        ->Track not present in AccurateRip database.
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 08
+    Filename : /Users/alex/Documents/XLD/ONE OK ROCK - Ambitions (2017) [FLAC]/08 Lost in Tonight.flac
+
+    Track gain               : -10.55 dB
+    Peak                     : 0.983643
+    CRC32 hash (test run)    : 2B51A5A7
+    CRC32 hash               : 2B51A5A7
+    CRC32 hash (skip zero)   : 1118A2C4
+    AccurateRip v1 signature : E5FFCAB3
+    AccurateRip v2 signature : 40DEB2D8
+        ->Track not present in AccurateRip database.
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 09
+    Filename : /Users/alex/Documents/XLD/ONE OK ROCK - Ambitions (2017) [FLAC]/09 I was King.flac
+
+    Track gain               : -10.24 dB
+    Peak                     : 0.991394
+    CRC32 hash (test run)    : 37BD8EA2
+    CRC32 hash               : 37BD8EA2
+    CRC32 hash (skip zero)   : C3F8DAFF
+    AccurateRip v1 signature : 24017C84
+    AccurateRip v2 signature : 1CAD5C10
+        ->Track not present in AccurateRip database.
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 10
+    Filename : /Users/alex/Documents/XLD/ONE OK ROCK - Ambitions (2017) [FLAC]/10 Listen.flac
+
+    Track gain               : -9.89 dB
+    Peak                     : 1.000000
+    CRC32 hash (test run)    : CB73416B
+    CRC32 hash               : CB73416B
+    CRC32 hash (skip zero)   : B52FE8AE
+    AccurateRip v1 signature : 90CD81CD
+    AccurateRip v2 signature : 6B5BB2C1
+        ->Track not present in AccurateRip database.
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 11
+    Filename : /Users/alex/Documents/XLD/ONE OK ROCK - Ambitions (2017) [FLAC]/11 One Way Ticket.flac
+
+    Track gain               : -10.30 dB
+    Peak                     : 0.984589
+    CRC32 hash (test run)    : 3231BFF8
+    CRC32 hash               : 3231BFF8
+    CRC32 hash (skip zero)   : B87B9ECB
+    AccurateRip v1 signature : D93F911F
+    AccurateRip v2 signature : 7E880171
+        ->Track not present in AccurateRip database.
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 12
+    Filename : /Users/alex/Documents/XLD/ONE OK ROCK - Ambitions (2017) [FLAC]/12 Bon Voyage.flac
+
+    Track gain               : -10.65 dB
+    Peak                     : 1.000000
+    CRC32 hash (test run)    : 1C07B3ED
+    CRC32 hash               : 1C07B3ED
+    CRC32 hash (skip zero)   : 4B839503
+    AccurateRip v1 signature : D75EC306
+    AccurateRip v2 signature : C44A62F2
+        ->Track not present in AccurateRip database.
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 13
+    Filename : /Users/alex/Documents/XLD/ONE OK ROCK - Ambitions (2017) [FLAC]/13 Start Again.flac
+
+    Track gain               : -10.70 dB
+    Peak                     : 1.000000
+    CRC32 hash (test run)    : EF8E65D3
+    CRC32 hash               : EF8E65D3
+    CRC32 hash (skip zero)   : 40150D3F
+    AccurateRip v1 signature : 7B75F2AE
+    AccurateRip v2 signature : 913A7658
+        ->Track not present in AccurateRip database.
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 14
+    Filename : /Users/alex/Documents/XLD/ONE OK ROCK - Ambitions (2017) [FLAC]/14 Take what you want.flac
+
+    Track gain               : -10.40 dB
+    Peak                     : 0.994965
+    CRC32 hash (test run)    : CB20504E
+    CRC32 hash               : CB20504E
+    CRC32 hash (skip zero)   : D9CA6D71
+    AccurateRip v1 signature : 5A48F391
+    AccurateRip v2 signature : C0BDC7C2
+        ->Track not present in AccurateRip database.
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+No errors occurred
+
+End of status report
+
+-----BEGIN XLD SIGNATURE-----
+HilTmwhRGMwa4nHp7_w_2coYrIxN.T8Adv_KxM4EVQEvy7CQbR9NYaofKIpdrNEBLw0Y5YSerBOeo1His9Vl6xw6TdOfMZFFVd9diXS
+-----END XLD SIGNATURE-----
